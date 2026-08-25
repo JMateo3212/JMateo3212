@@ -46,5 +46,5 @@ el Machine Learning y la ciberseguridad.
 </p>
 
 <p align="center">
-  <img src="https://share.google/AOB2lEBRypiseQAvZ">
+  <img src="[https://share.google/AOB2lEBRypiseQAvZ](https://tenor.com/fXNdJMvPGNB.gif)">
 </p>
