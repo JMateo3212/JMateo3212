@@ -1,6 +1,8 @@
-# 👋 ¡Hola! mi nombre es Mateo Acosta 
+# Mateo Acosta 
 
-### 🎓 Estudiante de Ingeniería de Sistemas y Computación de la Universidad de Cundinamarca 
+<h3 align="center">
+Estudiante de Ingeniería de Sistemas y Computación de la Universidad de Cundinamarca 
+</h3>
 
 ## 👨‍💻 Sobre mí
 
