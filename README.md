@@ -26,13 +26,7 @@ el Machine Learning y la ciberseguridad.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 📊 Estadísticas de GitHub
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=JMateo3212&show_icons=true&theme=tokyonight&hide_border=true" />
-
-</p>
 
 
 <h1 align="center">
@@ -43,10 +37,14 @@ el Machine Learning y la ciberseguridad.
   🎓 Ingeniería de Sistemas y Computación
 </h3>
 
+<h3 align="center">
+  🎓 Universidad de Cundinamarca
+</h3>
+
 <p align="center">
   🤖 Inteligencia Artificial • 💻 Desarrollo • 📊 Datos
 </p>
 
 <p align="center">
-  <img src="https://giphy.com/explore/cursed-memes-stickers">
+  <img src="https://share.google/AOB2lEBRypiseQAvZ">
 </p>
