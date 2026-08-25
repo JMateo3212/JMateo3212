@@ -29,9 +29,7 @@ el Machine Learning y la ciberseguridad.
 
 
 
-<h1 align="center">
-  👋 ¡Hola! Soy Mateo
-</h1>
+
 
 <h3 align="center">
   🎓 Ingeniería de Sistemas y Computación
